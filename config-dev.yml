@@ -3,4 +3,4 @@ config:
   name: "456"
   
 server:
-  port: 3355
+  port: 3388
